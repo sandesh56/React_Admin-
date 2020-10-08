@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "comment": "This is the post comment",
+      "author": "sandesh",
+      "publishedAt": "2020-10-02"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "comment": "This is the post comment",
+      "author": "mandesh",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "comment": "This is the post comment",
+      "author": "Randesh",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post Four",
+      "comment": "This is the comment for post 4",
+      "author": "dandesh",
+      "publishedAt": "2020-10-06",
+      "id": "DdCICG7"
+    },
+    {
+      "id": "25",
+      "title": "John's Darling",
+      "comment": "Imagine there's no heaven, it's easy if you try . No hell below us, Above us only sky.\nUpdated: Darling... Darling Stand by me.",
+      "publishedAt": "2020-10-08",
+      "updatedAt": "2020-10-29"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Noah maka",
+      "email": "mikal@example.com"
+    },
+    {
+      "id": "2",
+      "name": "jonash maka",
+      "email": "doxi@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Martha Maka",
+      "email": "Roxie@example.com"
+    },
+    {
+      "id": "5",
+      "name": "sandesh",
+      "email": "rauth.baaaje.1914@nepali.com"
+    }
+  ]
+}
